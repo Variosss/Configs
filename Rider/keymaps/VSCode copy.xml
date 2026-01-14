@@ -1,0 +1,16 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="Console.TableResult.Reload">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="Console.TableResult.SetNull">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="RiderBackendAction-ResxEditorSafeDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="VcsShowNextChangeMarker" />
+</keymap>

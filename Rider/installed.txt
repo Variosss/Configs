@@ -1,0 +1,14 @@
+org.jetbrains.intellij.scripting-javascript
+com.chesterccw.excelreader
+cognitivecomplexity-rider
+String Manipulation
+Key Promoter X
+com.intellij.resharper.StructuredLogging
+com.intellij.aqua
+GrepConsole
+net.seesharpsoft.intellij.plugins.csv
+com.atlassian.bitbucket.references
+com.mallowigi
+zielu.gittoolbox
+me.rafaelldi.aspire
+com.chylex.coloredbrackets

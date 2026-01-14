@@ -1,0 +1,25 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="CpDetailsData RAZOR">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="CpDetailsData.razor" />
+                  <option name="pattern" value="CpDetailsData.razor" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="CpDetailsData RAZOR" />
+                  <option name="icon" value="/icons/files/question.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="iconColor" value="6b9bfa" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

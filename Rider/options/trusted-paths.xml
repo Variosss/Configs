@@ -1,0 +1,65 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Projekty\DRS Api" value="true" />
+        <entry key="C:\Projekty\DrsInternalApi" value="true" />
+        <entry key="C:\Projekty\DrsInternalApi\.idea\.idea.DrsInternalApi" value="true" />
+        <entry key="C:\Projekty\Festivalapp" value="true" />
+        <entry key="C:\Projekty\Festivalapp\festivaltourapp" value="true" />
+        <entry key="C:\Projekty\Festivalapp\festivaltourapp\FestivalTour" value="true" />
+        <entry key="C:\Projekty\Festivalapp\festivaltourapp\FestivalTour\.idea\.idea.FestivalTour" value="true" />
+        <entry key="C:\Projekty\IO.Swagger" value="true" />
+        <entry key="C:\Projekty\OrdersQueueWebAssembly" value="true" />
+        <entry key="C:\Projekty\OrdersQueueWebAssembly\.idea\.idea.OrdersQueueWebAssembly" value="true" />
+        <entry key="C:\Projekty\PTMReports" value="true" />
+        <entry key="C:\Projekty\PTMReports\.idea\.idea.DRSPeriodical" value="true" />
+        <entry key="C:\Projekty\PTMReports\.idea\.idea.PTMReports" value="true" />
+        <entry key="C:\Projekty\SandboxTesting" value="true" />
+        <entry key="C:\Projekty\SandboxTesting\.idea\.idea.SandboxTesting" value="true" />
+        <entry key="C:\Projekty\SignalR test" value="true" />
+        <entry key="C:\Projekty\SignalR test\.idea\.idea.SignalR test" value="true" />
+        <entry key="C:\Projekty\TmsErpSoapService" value="true" />
+        <entry key="C:\Projekty\TmsErpSoapService\.idea\.idea.TmsErpSoapService" value="true" />
+        <entry key="C:\Projekty\agent_cbp" value="true" />
+        <entry key="C:\Projekty\agent_cbp\.idea\.idea.drsAgentIntProject" value="true" />
+        <entry key="C:\Projekty\bunittest" value="true" />
+        <entry key="C:\Projekty\drs" value="true" />
+        <entry key="C:\Projekty\drs\.idea\.idea.drs" value="true" />
+        <entry key="C:\Projekty\drsagentcbdok" value="true" />
+        <entry key="C:\Projekty\drsagentcbdok\.idea\.idea.drsAgentCBDOK" value="true" />
+        <entry key="C:\Projekty\drsagentcm" value="true" />
+        <entry key="C:\Projekty\drsagentcm\.idea\.idea.drsAgentCMIntProject" value="true" />
+        <entry key="C:\Projekty\drsagenterp" value="true" />
+        <entry key="C:\Projekty\drsagenterp\.idea\.idea.AgentErp" value="true" />
+        <entry key="C:\Projekty\drsagenttms" value="true" />
+        <entry key="C:\Projekty\drsagenttms\.idea\.idea.drsAgentTms" value="true" />
+        <entry key="C:\Projekty\drsagenttms_roman" value="true" />
+        <entry key="C:\Projekty\drsagenttms_roman\.idea\.idea.drsAgentTms" value="true" />
+        <entry key="C:\Projekty\drsapi\drsapi" value="true" />
+        <entry key="C:\Projekty\drsapi\drsapi\.idea\.idea.drsapi" value="true" />
+        <entry key="C:\Projekty\drsapi\drsvr.API" value="true" />
+        <entry key="C:\Projekty\drsapi\drsvr.API\.idea\.idea.drsvr.API" value="true" />
+        <entry key="C:\Projekty\drsperiodical" value="true" />
+        <entry key="C:\Projekty\drsperiodical\.idea\.idea.DRSPeriodical" value="true" />
+        <entry key="C:\Projekty\drsq" value="true" />
+        <entry key="C:\Projekty\drsq\.idea\.idea.drsq" value="true" />
+        <entry key="C:\Projekty\drsqueue" value="true" />
+        <entry key="C:\Projekty\drsqueue\.idea\.idea.drsq" value="true" />
+        <entry key="C:\Projekty\primoadmin" value="true" />
+        <entry key="C:\Projekty\primoadmin\.idea\.idea.primoadmin.dir" value="true" />
+        <entry key="C:\Projekty\primoagentdrs" value="true" />
+        <entry key="C:\Projekty\primoagentdrs\.idea\.idea.primoAgentDRS" value="true" />
+        <entry key="C:\Projekty\primopickupnumbersystem" value="true" />
+        <entry key="C:\Projekty\primopickupnumbersystem\.idea\.idea.OrdersView" value="true" />
+        <entry key="C:\Projekty\prosquad\dotnet" value="true" />
+        <entry key="C:\Projekty\soap2" value="true" />
+        <entry key="C:\Projekty\soap2\.idea\.idea.TmsErpSoapService" value="true" />
+        <entry key="C:\Projekty\terminal testy" value="true" />
+        <entry key="C:\Users\MSI\AppData\Local\Temp\RiderEmptySolutions\26_05_2025__10_42_38\Process 'PowerToys'" value="true" />
+        <entry key="C:\Users\MSI\AppData\Local\Temp\RiderEmptySolutions\26_05_2025__10_42_38\Process 'PowerToys'\.idea\.idea.Process 'PowerToys'" value="true" />
+        <entry key="C:\Users\MSI\Desktop\MutexTest" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
